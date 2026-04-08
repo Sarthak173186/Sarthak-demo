@@ -1,4 +1,4 @@
 # Sarthak-demo
 This is my first git repo.
 <br>
-Author - Sarthak
+Author - Sarthak (college)
